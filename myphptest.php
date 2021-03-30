@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>This is my PHP Test Application for class 4</h1>
+<h1>This is my second php test app for class 4/h1>
 
 <?php
-echo "Version: 2";
+echo "Version: 3.0.1";
 ?>
 
 </body>
